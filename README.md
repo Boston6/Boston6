@@ -4,6 +4,6 @@ B:\> syscome
 
 //////////////////////////////////////
 
-HELLO, WELCOME TO THE BOSTONSIX SYSTEM. HERE IS WHERE I DUMP THINGS THAT I HAVE OR MAKE 
+Hello, Welcome to the BostonSix System. Here is where I dump things that I have or make 
 
 //////////////////////////////////////
